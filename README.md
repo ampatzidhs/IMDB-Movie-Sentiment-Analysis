@@ -3,7 +3,7 @@
 Sentiment analysis for IMDB movie dataset, which contains 50.000 data, with positive/negative sentiments. 
 The repository consists of: 
 - data preprocessing
-- different models used for classification
+- different models used for classification </br>
 The models we used were:
 - Random Forest
 - XGBoost
